@@ -5,11 +5,14 @@
 }
 
 body {
+   
     width: 100vw;
     background-color: #eee;
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow-x: scroll;
+    overflow-y:scroll ;
 }
 
 hr {
